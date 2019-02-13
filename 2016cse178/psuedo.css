@@ -1,0 +1,21 @@
+div:hover
+{
+background-color:yellow;
+color:red;
+font-family:times new roman;
+}
+p:hover
+{
+background-color:green;
+color:blue;
+font-family:times new roman;
+font-size:25px;
+
+}
+.p1::first-letter
+{
+background-color:blue;
+color:red;
+display:block;
+display:none;
+}

@@ -1,0 +1,31 @@
+p.one
+{
+border-style:dotted;
+border-width:5px;
+border-color:blue;
+}
+p.two
+{
+border-width:10px;
+border-top-style:dotted;
+border-right-style:solid;
+border-bottom-style:groove;
+border-left-style:ridge;
+}
+p.two
+{
+border:5px;
+border-color:blue;
+border-style:double;
+}
+p.three
+{
+margin:25px 50px 75px 100px;
+}
+a:link
+{color : red;}
+a:hover
+{color : purple;}
+a:active
+{color : green;}
+
